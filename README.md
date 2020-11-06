@@ -10,8 +10,11 @@
 
 
 * [Лекция 1 (2020.10.31).](https://github.com/magnitofonov/hse-econ-data-analysis-course-2020/tree/master/week_01) Основы языка python. 
-	* Основные типы данных языка python. Полезные методы работы со строками. Работа с файлами 
+	* Основные типы данных языка python. Полезные методы работы со строками. 
 	* **Крайний срок сдачи домашнего задания: 2020.... 23:59, пятница.** 
+
+* [Лекция 2 (2020.11.07).](https://github.com/magnitofonov/hse-econ-data-analysis-course-2020/tree/master/week_01) Основы языка python. 
+	* Работа с файлами. Дополнительные типы данных: словарь, Counter, defaultdict. Сортировки 
 
 	---
 	
