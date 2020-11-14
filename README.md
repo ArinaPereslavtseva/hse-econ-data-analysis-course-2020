@@ -16,11 +16,19 @@
 	* [Домашнее задание](https://official.contest.yandex.ru/contest/21920/standings)
 	* **Крайний срок сдачи домашнего задания: 2020.11.15 23:59, воскресенье.** 
 
+	---
+
 * [Лекция 3 (2020.11.07).](https://github.com/magnitofonov/hse-econ-data-analysis-course-2020/tree/master/week_01) Основы языка python. 
 	* Работа с файлами. Дополнительные типы данных: словарь, Counter, defaultdict. Сортировки 
 	* [Задачи семинара](https://official.contest.yandex.ru/contest/21612)
+	* [Домашнее задание](https://official.contest.yandex.ru/contest/22429)
+	* **Крайний срок сдачи домашнего задания: 2020.11.22 23:59, воскресенье.** 
 
 	---
+	
+* [Лекция 4 (2020.11.14).](https://github.com/magnitofonov/hse-econ-data-analysis-course-2020/tree/master/week_03)  Работа с табличными данными - pandas. 
+	* Знакомство с pandas. Основные классы: `pd.DataFrame` и `pd.Series`. Базовые операции над ними
+
 	
 ## Полезные материалы
 
@@ -46,6 +54,16 @@ Cамоучители. Тем, у кого проблемы с синтакси�
 * [Форматирование строк](https://pyformat.info/)
 * [Работа со строками с помощью регулярных выражений](https://developers.google.com/edu/python/regular-expressions)
 * [Стандарт PEP 8: Рекомендации по написанию красивого кода](https://www.python.org/dev/peps/pep-0008/)
+
+<br>
+ Полезные ссылки для знакомства с pandas:
+
+* [Александр Дьяконов - Pandas. Обзор основных функций](https://alexanderdyakonov.files.wordpress.com/2015/04/ama2015_pandas.pdf) 
+* [Pandas Tutorial: DataFrames in Python](https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python)
+* [Документация модуля pandas](https://pandas.pydata.org/pandas-docs/stable/index.html)
+	* [10 Minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html)
+	* [Pandas tutorials](https://pandas.pydata.org/pandas-docs/stable/tutorials.html) 
+* [Brandon’s Pandas Tutorial](https://github.com/brandon-rhodes/pycon-pandas-tutorial) 
 
 <br>
 
