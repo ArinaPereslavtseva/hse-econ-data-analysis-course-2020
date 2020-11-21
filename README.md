@@ -6,11 +6,14 @@
 * Обсуждать задачи друг с другом - можно, списывать - нельзя. Если два студента сидели вместе и писали код задачи - это списывание. Если вдвоём обсудили алгоритм или какие-то нюансы, а потом каждый сам сел и написал код самостоятельно - это ок. **За списывание будем снимать баллы.** Если возникли трудности, или что-то не получается, лучше пишите нам - подскажем.
 * **Домашние работы, сданные после срока - проверяться не будут!**
 
+* Дата экзамена: 11:00, 19 декабря 2020 года.
+* [Таблица с промежуточными результатами](https://docs.google.com/spreadsheets/d/1WcluVT-bA15uazS3Lw2QRaxiAuH-y47hJH9_B_Ow7XA/edit#gid=0)
+
 ## Ход курса
 
 Плейлист с видеолекциями можно найти [здесь](https://www.youtube.com/playlist?list=PLEwK9wdS5g0pQ_NXU7q_5nXB9kUrQDvCi)
 
-* [Лекция 1, 2 (2020.10.31).](https://github.com/magnitofonov/hse-econ-data-analysis-course-2020/tree/master/week_01) Основы языка python. 
+* [Неделя 1 (2020.10.31).](https://github.com/magnitofonov/hse-econ-data-analysis-course-2020/tree/master/week_01) Основы языка python. 
 	* Основные типы данных языка python. Полезные методы работы со строками. 
 	* [Задачи семинара](https://official.contest.yandex.ru/contest/21610/)
 	* [Домашнее задание](https://official.contest.yandex.ru/contest/21920/standings)
@@ -18,7 +21,7 @@
 
 	---
 
-* [Лекция 3 (2020.11.07).](https://github.com/magnitofonov/hse-econ-data-analysis-course-2020/tree/master/week_01) Основы языка python. 
+* [Неделя 2 (2020.11.07).](https://github.com/magnitofonov/hse-econ-data-analysis-course-2020/tree/master/week_01) Основы языка python. 
 	* Работа с файлами. Дополнительные типы данных: словарь, Counter, defaultdict. Сортировки 
 	* [Задачи семинара](https://official.contest.yandex.ru/contest/21612)
 	* [Домашнее задание](https://official.contest.yandex.ru/contest/22429)
@@ -26,8 +29,16 @@
 
 	---
 	
-* [Лекция 4 (2020.11.14).](https://github.com/magnitofonov/hse-econ-data-analysis-course-2020/tree/master/week_03)  Работа с табличными данными - pandas. 
+* [Неделя 3 (2020.11.14).](https://github.com/magnitofonov/hse-econ-data-analysis-course-2020/tree/master/week_03)  Работа с табличными данными - pandas. 
+	* [Задачи семинара](https://official.contest.yandex.ru/contest/22490)
 	* Знакомство с pandas. Основные классы: `pd.DataFrame` и `pd.Series`. Базовые операции над ними
+
+	---
+	
+* [Неделя 4 (2020.11.21).](https://github.com/magnitofonov/hse-econ-data-analysis-course-2020/tree/master/week_04)  Продолжаем изучать pandas: объединение таблиц и групировка. Основы визуализации данных. 
+	* [Задачи семинара](https://official.contest.yandex.ru/contest/22844)
+	* Объединение таблиц в Pandas: `pd.concat` и `pd.merge`. Групировка данных. Графики в matplotlib
+
 
 	
 ## Полезные материалы
