@@ -30,14 +30,16 @@
 	---
 	
 * [Неделя 3 (2020.11.14).](https://github.com/magnitofonov/hse-econ-data-analysis-course-2020/tree/master/week_03)  Работа с табличными данными - pandas. 
-	* [Задачи семинара](https://official.contest.yandex.ru/contest/22490)
 	* Знакомство с pandas. Основные классы: `pd.DataFrame` и `pd.Series`. Базовые операции над ними
+	* [Задачи семинара](https://official.contest.yandex.ru/contest/22490)
 
 	---
 	
 * [Неделя 4 (2020.11.21).](https://github.com/magnitofonov/hse-econ-data-analysis-course-2020/tree/master/week_04)  Продолжаем изучать pandas: объединение таблиц и групировка. Основы визуализации данных. 
-	* [Задачи семинара](https://official.contest.yandex.ru/contest/22844)
 	* Объединение таблиц в Pandas: `pd.concat` и `pd.merge`. Групировка данных. Графики в matplotlib
+	* [Задачи семинара](https://official.contest.yandex.ru/contest/22844)
+	* [Домашнее задание](https://official.contest.yandex.ru/contest/23031)
+		* Если сдаёте до **23:59, 29 ноября (вск)** - получаете по 1 баллу за каждую решенную задачу. Если после этого срока, но до **23:59 13 декабря (вск)** - получаете по 0.5 баллов за задачу. Чтобы получить 10 за контест достаточно набрать 5 баллов (например, решить 5 задач до дедлайна)
 
 
 	---
