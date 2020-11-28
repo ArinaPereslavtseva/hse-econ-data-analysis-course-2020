@@ -40,6 +40,13 @@
 	* Объединение таблиц в Pandas: `pd.concat` и `pd.merge`. Групировка данных. Графики в matplotlib
 
 
+	---
+	
+* [Неделя 5 (2020.11.28).](https://github.com/magnitofonov/hse-econ-data-analysis-course-2020/tree/master/week_05)  Работа с Web
+	* [Задачи семинара](https://official.contest.yandex.ru/contest/23195)
+	* Введение в работу с Web. Основы `requests`, `BeautifulSoup`, `Selenium`.
+
+
 	
 ## Полезные материалы
 
