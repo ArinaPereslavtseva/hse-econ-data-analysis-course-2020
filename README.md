@@ -95,11 +95,12 @@ Cамоучители. Тем, у кого проблемы с синтакси�
 <br>
 
 
-* Ссылки для любопытных по ML:
-	* [Coursera: Введение в машинное обучение от ВШЭ](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie) 
-	* [ODS: курс машинного обучения для начинающих](https://habr.com/company/ods/blog/322626/) 
-	* [Библиотека scikit-learn для ML.](https://scikit-learn.org/stable/) Почитайте quick start, user guide и tutorials в документации.
-	* [Песочница с нейронной сетью](https://playground.tensorflow.org)
+Ссылки для любопытных по ML:
+
+* [Coursera: Введение в машинное обучение от ВШЭ](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie) 
+* [ODS: курс машинного обучения для начинающих](https://habr.com/company/ods/blog/322626/) 
+* [Библиотека scikit-learn для ML.](https://scikit-learn.org/stable/) Почитайте quick start, user guide и tutorials в документации.
+* [Песочница с нейронной сетью](https://playground.tensorflow.org)
 
 ## Преподавательский состав
 
